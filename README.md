@@ -12,7 +12,7 @@ Lightweight WordPress plugin to remove unnecessary scripts, styles, and meta tag
 
 ## Why use this?
 
-WordPress includes many features by default that may not be needed for your project. This plugin disables or removes them in a clean and modular way.
+WordPress includes many features by default that may not be needed for your project. This plugin disables or removes them in a clean and modular way. It was created partly for fun and for personal use.
 
 ## Installation
 
